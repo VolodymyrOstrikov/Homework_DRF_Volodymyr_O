@@ -1,0 +1,13 @@
+<supBoard>
+    <brand>Decathlon</brand>
+    <model>Hurley</model>
+    <size>335X85X15</size>
+    <color>Mixed Color</color>
+    <maximumLoad>150kg</maximumLoad>
+    <weightOfThePackaging>13kg</weightOfThePackaging>
+    <price>299euro</price>
+</supBoard>
+
+
+
+
