@@ -3,7 +3,7 @@
   "model": "Hurley",
   "size": "335X85X15",
   "color": "Mixed Color",
-  "maximum load": "150kg",
-  "weight of the packaging" : "13kg",
-  "price" : "299euro"
+  "maximum_load_kg": "150",
+  "packaging_weight_kg" : "13",
+  "price_eur" : "299"
 }
